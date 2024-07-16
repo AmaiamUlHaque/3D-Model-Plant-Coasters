@@ -1,6 +1,18 @@
 # 3D-Model-Plant-Coasters
 Various custom 3D modelled plant coasters/trays along with their prints that I made with Autodesk Inventor! :)
 
+
+## Version 2
+
+| View | Image |
+| ----- | ----- |
+| Isometric | <img width="1649" height="760" alt="image" src="https://github.com/user-attachments/assets/22aea4a6-0402-4cbd-8448-7eb9967f0f3d" /> |
+| Top       | <img width="1646" height="763" alt="image" src="https://github.com/user-attachments/assets/fe498836-eab6-4013-ad1d-1c2fbd8dde6b" /> |
+| Front     | <img width="1651" height="763" alt="image" src="https://github.com/user-attachments/assets/e586dc87-950c-42d2-b322-9d80a97d7147" /> |
+| Right     | <img width="1645" height="756" alt="image" src="https://github.com/user-attachments/assets/8367b886-9863-4190-8b71-6cf1e9f891f1" /> |
+| 3D Printed|  |
+
+
 ## Version 1
 
 | View | Image |
